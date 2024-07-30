@@ -1,0 +1,10 @@
+0001 add
+0010 sub
+0011 mult
+0100 div
+0101 and
+0110 or
+0111 nor
+1000 nand
+1001 push to bus
+1010 define
